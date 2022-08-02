@@ -2,7 +2,7 @@
 Hi, I’m Ryan! The project that I chose is a solar panel sun tracker that uses a servo motor, photo-resistors, and of course a solar panel! This device tracks the movement of sun light allowing the solar panel to receive the maximum amount of sunlight to power a phone.
 
 ﻿# About the Creator
-
+Write about myself
 
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gvccW8z/IMG-5550-1.jpg" alt="IMG-5550-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>uploading pics</a><br />

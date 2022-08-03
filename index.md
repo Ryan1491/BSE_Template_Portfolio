@@ -5,7 +5,7 @@ Hi, I’m Ryan! The project that I chose is a solar panel sun tracker that uses 
 Write about myself
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gvccW8z/IMG-5550-1.jpg" alt="IMG-5550-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>uploading pics</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gvccW8z/IMG-5550-1.jpg" alt="IMG-5550-1" border="0"></a><br />
 </p>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |

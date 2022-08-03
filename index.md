@@ -1,18 +1,16 @@
 ﻿# Solar Panel Sun Tracker - Phone Charger
 Hi, I’m Ryan! The project that I chose is a solar panel sun tracker that uses a servo motor, photo-resistors, and of course a solar panel! This device tracks the movement of sun light allowing the solar panel to receive the maximum amount of sunlight to power a phone.
 
-﻿ About the Creator
+# About the Creator
 Ever since I was little, I would tell my family that I wanted to become an engineer. There is even a quote of me saying that I wanted to become an engineer in my 5th grade yearbook. Although I knew I wanted to become an engineer, I never knew what type. Now in the BlueStamp Engineering Program I am exploring the variety of types of engineering, with the project I am working on.
 
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gvccW8z/IMG-5550-1.jpg" alt="IMG-5550-1" border="0"></a><br />
 </p>
 
-<p align="center">
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ryan | Northgate High School | Mechanical Engineering | Incoming Senior
-</p>
+| Ryan | Northgate High School | Mechanical & Aerospace Engineering | Rising Senior
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 

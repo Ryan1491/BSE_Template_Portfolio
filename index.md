@@ -18,7 +18,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was to create the structure of the entire device. I began creating the structure 
+My second milestone was to create the structure of the entire device. I began creating the structure with cardboard. I cut the cardboard accordingly to create a base for the entire structure, two columns, and another base for the solar panel to sit on. I then placed the items from milestone 1 on to the base and hot glued the two columns beside it. Next, made symmetric holes on both columns, which would later be used for the solar panels range of motion. Lastly, I hot glued the solar panel onto the smaller base and inserted the ends of a binder clip on two of the sides. Inserting the ends of a binder clip and the holes at the side of each column allowed me to feed string and tie all the pieces together. These steps allowed the solar panel to have a range of motion.
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1659733180/video_to_markdown/images/youtube--GMWZ74NauQs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=GMWZ74NauQs "Milestone 2"){:target="_blank" rel="noopener"}
 

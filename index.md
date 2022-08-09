@@ -16,7 +16,7 @@ Ever since I was little, I would tell my family that I wanted to become an engin
 This is the slideshow I used to present the Solar Panel Sun Tracker - Phone Charger.
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/1EzZTx-KEkHjwMlzqJvZuWRzMGbQ7MuTq0Zo1nYIea84/edit?usp=sharing" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1EzZTx-KEkHjwMlzqJvZuWRzMGbQ7MuTq0Zo1nYIea84/edit#slide=id.g8f4bd20341_0_1" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 # Final Milestone

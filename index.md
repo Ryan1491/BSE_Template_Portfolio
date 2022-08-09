@@ -27,6 +27,10 @@ My first milestone was getting the servo motor and the photo-resistors to corres
 
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659481958/video_to_markdown/images/youtube--cIgtUEMW-1w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cIgtUEMW-1w "Milestone 1"){:target="_blank" rel="noopener"}
 
+# Bill of Materials 
+
+This table contains all the items needed to recreate the project. It contains the item, quanitity, price and where to buy the item.  
+
 # Solar Panel Sun Tracker - Phone Charger Code
 
 Below is the code I used to make the project operational. The code is through arduino and the photo-resistors detect the amount of light which can be seen in the serial monitor and depending on the amount of light one photo-resistor receives the servo motor will move toward that direction.

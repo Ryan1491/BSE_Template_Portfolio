@@ -16,9 +16,9 @@ Ever since I was little, I would tell my family that I wanted to become an engin
 This is the slideshow I used to present the Solar Panel Sun Tracker - Phone Charger.
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/1EzZTx-KEkHjwMlzqJvZuWRzMGbQ7MuTq0Zo1nYIea84/edit?usp=sharing" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1EzZTx-KEkHjwMlzqJvZuWRzMGbQ7MuTq0Zo1nYIea84/edit?usp=sharing" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
-  
+
 # Final Milestone
 My final milestone was to replace the original servo motor with a stronger servo motor so it would be able to tilt the solar panel. I took off the original servo motor and hot glued and taped the stronger servo motor. Next, I attached the servo motor to the solar panel with a bent paper clip. During this time, I also tested the entire device to make sure it was working correctly. Unfortunately, the servo motor would only rotate to the right when it was intended to rotate both left and right. I looked at the entire device to see if there was anything physically wrong, but saw nothing, so I looked at the code. With the help of my mentor, I was able to fix the bug in the code, allowing the servo motor to spin left and right with only a few changes in the code.
 

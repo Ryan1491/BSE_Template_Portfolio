@@ -12,6 +12,14 @@ Ever since I was little, I would tell my family that I wanted to become an engin
 |:--:|:--:|:--:|:--:|
 | Ryan | Northgate High School | Mechanical & Aerospace Engineering | Rising Senior
 
+# My Project 
+
+Below is a picture of my completed Solar Panel Sun Tracker - Phone Charger.
+
+<p align="center">
+<a href="https://ibb.co/pLV5KjY"><img src="https://i.ibb.co/gRqhWZk/IMG-6710.jpg" alt="IMG-6710" border="0"></a>
+</p>
+
 # Presentation Slideshow
 This is the slideshow I used to present the Solar Panel Sun Tracker - Phone Charger.
 

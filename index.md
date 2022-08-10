@@ -47,6 +47,14 @@ This table contains all the items needed to recreate the project. It contains th
 | 4-Band Resistor Color Code  | 2  | $0.16 each  | https://www.amazon.com/uxcell-50pcs-Carbon-Resistors-Tolerances/dp/B07GTS6D9J  |
 | Hot Glue Gun With Sticks  | 1  | $19.95  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP  |
 
+# Schematics
+
+This is a schematic of the adeept circuit board used for my robotic arm. This board connects to my computer which contains the code for the arm. This board also has the potentiometers that control the robotic arm. 
+
+<p align="center">
+<a href="https://ibb.co/pPHJ01C"><img src="https://i.ibb.co/QcWrbJs/unnamed.jpg" alt="unnamed" border="0"></a>
+</p>
+
 # Solar Panel Sun Tracker - Phone Charger Code
 
 Below is the code I used to make the project operational. The code is through arduino and the photo-resistors detect the amount of light which can be seen in the serial monitor and depending on the amount of light one photo-resistor receives the servo motor will move toward that direction.

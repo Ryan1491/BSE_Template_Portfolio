@@ -64,6 +64,7 @@ This is a schematic of the connections to the arduino board, breadboard, servo m
 
 So you want to recreate this project! Below are the exact steps that I had done to create this project.
 
+<br />
 
 Step #1
 First download Arduino IDE. Download the correct one for your device. (https://www.arduino.cc/en/software)

@@ -33,18 +33,19 @@ This table contains all the items needed to recreate the project. It contains th
 
 | Item | Qty | Price | Where to Buy |
 | ------------- | ------------- | ------------- | ------------- |
-| Arduino UNO REV3  | 1  | $24.49  | [https://www.amazon.com/dp/B087R8DLG6](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6)  |
+| Arduino UNO REV3  | 1  | $24.49  | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6  |
 | Breadboard  | 1  | $8.75  | https://www.amazon.com/BB830-Solderless-Plug-BreadBoard-tie-Points/dp/B0040Z4QN8  |
 | Servo Motor  | 1  | $15.99  | https://www.amazon.com/ANNIMOS-Digital-Waterproof-DS3218MG-Control/dp/B076CNKQX4  |
-| Jumper Wires  | 17  | $0.20  | https://www.amazon.com/BOJACK-Solderless-Flexible-Breadboard-Connecting/dp/B08YRPWC8L  |
-|   | 1  | $  |   |
-|   | 1  | $  |   |
-|   | 1  | $  |   |
-|   | 1  | $  |   |
-|   | 1  | $  |   |
-|   | 1  | $  |   |
-
-
+| Jumper Wires  | 17  | $0.20 each  | https://www.amazon.com/BOJACK-Solderless-Flexible-Breadboard-Connecting/dp/B08YRPWC8L  |
+| Paper Clip  | 1  | $0.02 | https://www.amazon.com/Mr-Assorted-Paperclips-Paperwork-Assortment/dp/B0885RD6NQ  |
+| Photo-Resistor  | 2  | $0.34 each  | https://www.amazon.com/Photoresistor-Resistor-Light-Dependent-Photoconductor-Sensitive/dp/B08QS6L7F5  |
+| Binder Clip  | 1  | $0.06  | https://www.amazon.com/Binder-Teacher-School-Office-Business/dp/B09KC9WMGF  |
+| String  | 1  | $4.99  | https://www.amazon.com/White-Cotton-Butchers-Twine-String/dp/B09TQXBFYD  |
+| Tape  | 1  | $9.84  | https://www.amazon.com/ScotchBlue-2098-36D-Platinum-Painters-Tape/dp/B01FIIXXQ6  |
+| Solar Panel  | 1  | $6.99  | https://www.amazon.com/Sunnytech-100ma-Module-Polysilicon-Charger/dp/B008J9BZIA  |
+| Cardboard  | 1  | $0.51  | https://www.amazon.com/Juvale-Corrugated-Cardboard-Sheets-Inches/dp/B07TDH6XG9  |
+| 4-Band Resistor Color Code  | 2  | $0.16 each  | https://www.amazon.com/uxcell-50pcs-Carbon-Resistors-Tolerances/dp/B07GTS6D9J  |
+| Hot Glue Gun With Sticks  | 1  | $19.95  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP  |
 
 # Solar Panel Sun Tracker - Phone Charger Code
 

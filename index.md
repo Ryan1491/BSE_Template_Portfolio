@@ -29,7 +29,7 @@ My first milestone was getting the servo motor and the photo-resistors to corres
 
 # Bill of Materials 
 
-This table contains all the items needed to recreate the project. It contains the item, quanitity, price and where to buy the item.  
+This table contains all the items needed to recreate the project. It contains the item, quanitity, price and where to buy the item. Total cost of the exact amount of materials is $95.99.
 
 | Item | Qty | Price | Where to Buy |
 | ------------- | ------------- | ------------- | ------------- |

@@ -31,6 +31,10 @@ My first milestone was getting the servo motor and the photo-resistors to corres
 
 This table contains all the items needed to recreate the project. It contains the item, quanitity, price and where to buy the item.  
 
+| Item | Qty | Price | Where to Buy |
+| ------------- | ------------- | ------------- | ------------- |
+| Arduino UNO REV3  | 1  | $24.49  | [https://www.amazon.com/dp/B087R8DLG6](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6) |
+
 # Solar Panel Sun Tracker - Phone Charger Code
 
 Below is the code I used to make the project operational. The code is through arduino and the photo-resistors detect the amount of light which can be seen in the serial monitor and depending on the amount of light one photo-resistor receives the servo motor will move toward that direction.

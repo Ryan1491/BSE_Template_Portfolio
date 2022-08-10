@@ -82,7 +82,7 @@ Step #5 <br />
 Tape your servo motor to the side of one of the columns. Next grab your paper clip and bend it twice into a stair shape. After bending the paper clip take one end and put it on the servo motor and take the other end and put it on the small base. Now you the servo motor and the solar panel is connected.
 
 Step #6 <br />
-Test the project you have just completed and if you believe that there are no problems, be proud of what you have just created!
+Test the project you have just completed and if you believe that there are no problems, be proud of what you have just created! :D
 
 # Solar Panel Sun Tracker - Phone Charger Code
 Below is the code I used to make the project operational. The code is through arduino and the photo-resistors detect the amount of light which can be seen in the serial monitor and depending on the amount of light one photo-resistor receives the servo motor will move toward that direction.

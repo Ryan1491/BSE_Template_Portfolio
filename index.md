@@ -12,6 +12,13 @@ Ever since I was little, I would tell my family that I wanted to become an engin
 |:--:|:--:|:--:|:--:|
 | Ryan | Northgate High School | Mechanical & Aerospace Engineering | Rising Senior
 
+# Presentation Slideshow
+This is the slideshow I used to present the Solar Panel Sun Tracker - Phone Charger.
+
+<p align="center">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8x8O78KRGT-Bokg8Eo5ipKljwuH8d0-_Mzq7ZLjuAsKDVwWc2uPLVzLa6ELQA01R6Wf9tAiwhJDnx/embed?start=false&loop=false&delayms=3000" frameborder="0" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
 # Final Milestone
 My final milestone was to replace the original servo motor with a stronger servo motor so it would be able to tilt the solar panel. I took off the original servo motor and hot glued and taped the stronger servo motor. Next, I attached the servo motor to the solar panel with a bent paper clip. During this time, I also tested the entire device to make sure it was working correctly. Unfortunately, the servo motor would only rotate to the right when it was intended to rotate both left and right. I looked at the entire device to see if there was anything physically wrong, but saw nothing, so I looked at the code. With the help of my mentor, I was able to fix the bug in the code, allowing the servo motor to spin left and right with only a few changes in the code.
 
@@ -28,7 +35,6 @@ My first milestone was getting the servo motor and the photo-resistors to corres
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659481958/video_to_markdown/images/youtube--cIgtUEMW-1w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cIgtUEMW-1w "Milestone 1"){:target="_blank" rel="noopener"}
 
 # Bill of Materials 
-
 This table contains all the items needed to recreate the project. It contains the item, quanitity, price and where to buy the item. Total cost of the exact amount of materials is $95.99.
 
 | Item | Qty | Price | Where to Buy |
@@ -48,15 +54,13 @@ This table contains all the items needed to recreate the project. It contains th
 | Hot Glue Gun With Sticks  | 1  | $19.95  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP  |
 
 # Schematics
-
-This is a schematic of the adeept circuit board used for my robotic arm. This board connects to my computer which contains the code for the arm. This board also has the potentiometers that control the robotic arm. 
+This is a schematic of the connections to the arduino board, breadboard, servo motor, and the photo-resistors.
 
 <p align="center">
 <a href="https://ibb.co/pPHJ01C"><img src="https://i.ibb.co/QcWrbJs/unnamed.jpg" alt="unnamed" border="0"></a>
 </p>
 
 # Solar Panel Sun Tracker - Phone Charger Code
-
 Below is the code I used to make the project operational. The code is through arduino and the photo-resistors detect the amount of light which can be seen in the serial monitor and depending on the amount of light one photo-resistor receives the servo motor will move toward that direction.
 
 ``` 

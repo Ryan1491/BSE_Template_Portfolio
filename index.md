@@ -33,9 +33,16 @@ This table contains all the items needed to recreate the project. It contains th
 
 | Item | Qty | Price | Where to Buy |
 | ------------- | ------------- | ------------- | ------------- |
-| Arduino UNO REV3  | 1  | $24.49  | [https://www.amazon.com/dp/B087R8DLG6](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6) |
-| Breadboard  | 1  | $8.75  | https://www.amazon.com/BB830-Solderless-Plug-BreadBoard-tie-Points/dp/B0040Z4QN8 |
-
+| Arduino UNO REV3  | 1  | $24.49  | [https://www.amazon.com/dp/B087R8DLG6](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6)  |
+| Breadboard  | 1  | $8.75  | https://www.amazon.com/BB830-Solderless-Plug-BreadBoard-tie-Points/dp/B0040Z4QN8  |
+| Servo Motor  | 1  | $15.99  | https://www.amazon.com/ANNIMOS-Digital-Waterproof-DS3218MG-Control/dp/B076CNKQX4  |
+| Jumper Wires  | 17  | $0.20  | https://www.amazon.com/BOJACK-Solderless-Flexible-Breadboard-Connecting/dp/B08YRPWC8L  |
+|   | 1  | $  |   |
+|   | 1  | $  |   |
+|   | 1  | $  |   |
+|   | 1  | $  |   |
+|   | 1  | $  |   |
+|   | 1  | $  |   |
 
 
 

@@ -66,22 +66,22 @@ So you want to recreate this project! Below are the exact steps that I had done 
 
 <br />
 
-Step #1
+Step #1 <br />
 First download Arduino IDE. Download the correct one for your device. (https://www.arduino.cc/en/software)
 
-Step #2 
+Step #2 <br />
 This is where the fun begins. Begin assembling the device. Look at the picture of the schematic above and make sure all your wires are connected and put into the arduino board and breadboard nicely. Now copy and paste the code into Arduino IDE and plug in the cord into your arduino. See if everything is working correctly. If so move onto the next step.
 
-Step #3
+Step #3 <br />
 After finishing the last step, cut out one large base, a smaller base, and two columns. Take your smaller base and make a hole in the middle. Next grab you binder clip and take of the silver ring things and throw away the black part, you don't need that. Then stick the silver part into the small base on the left and right. After finishing that hot glue the photo-resistors on the other side of the small base, also on the left and right. Now get your solar panel and put the wire coming off of it in to the hole you had just made before and hot glue the solar panel to the small base.
 
-Step #4
+Step #4 <br />
 Next make one symetrical hole on the two columns you had just cut out. Now glue the two columns on the left and right of the lager base (make sure there is enough room for the device you made in step 2). Get your one strand of string and feed it through one of the holes in the column and through the silver part of the binder clip, which should already be connected to the smaller base. Now do it to the other side. Pull on both strings making it taut. Next tape the strings to the columns.
 
-Step #5 
+Step #5 <br />
 Tape your servo motor to the side of one of the columns. Next grab your paper clip and bend it twice into a stair shape. After bending the paper clip take one end and put it on the servo motor and take the other end and put it on the small base. Now you the servo motor and the solar panel is connected.
 
-Step #6 
+Step #6 <br />
 Test the project you have just completed and if you believe that there are no problems, be proud of what you have just created!
 
 # Solar Panel Sun Tracker - Phone Charger Code
